@@ -14,8 +14,8 @@ This is a browser-based code editor built with **React**, **Monaco Editor**, and
 - Monaco Editor (`react-monaco-editor`)
 - iframe for rendering output
 
-## Future Features (Optional)
--Save snippets to Firebase
--Share code via URL
--Add multiple layout options
+## Future Features 
+- Save snippets to Firebase
+- Share code via URL
+- Add multiple layout options
 
